@@ -1,2 +1,3 @@
 ABCD
 123
+add func1
